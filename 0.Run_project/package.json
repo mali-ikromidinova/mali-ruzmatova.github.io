@@ -1,0 +1,31 @@
+{
+  "name": "15_feb",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mali-ruzmatova/bghjkl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mali-ruzmatova/bghjkl/issues"
+  },
+  "homepage": "https://github.com/mali-ruzmatova/bghjkl#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "sass": "^1.49.9"
+  },
+  "description": ""
+}
